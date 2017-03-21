@@ -1,0 +1,40 @@
+C:\Users\Altair\Dropbox\Project\Apteka\Apteka\bin\Release\Apteka.exe.config
+C:\Users\Altair\Dropbox\Project\Apteka\Apteka\bin\Release\PharmacyDB.mdf
+C:\Users\Altair\Dropbox\Project\Apteka\Apteka\bin\Release\PharmacyDB_log.ldf
+C:\Users\Altair\Dropbox\Project\Apteka\Apteka\bin\Release\Apteka.exe
+C:\Users\Altair\Dropbox\Project\Apteka\Apteka\bin\Release\Apteka.pdb
+C:\Users\Altair\Dropbox\Project\Apteka\Apteka\obj\Release\Apteka.LogIn.resources
+C:\Users\Altair\Dropbox\Project\Apteka\Apteka\obj\Release\Apteka.Main.resources
+C:\Users\Altair\Dropbox\Project\Apteka\Apteka\obj\Release\Apteka.Products.resources
+C:\Users\Altair\Dropbox\Project\Apteka\Apteka\obj\Release\Apteka.Properties.Resources.resources
+C:\Users\Altair\Dropbox\Project\Apteka\Apteka\obj\Release\Apteka.csproj.GenerateResource.Cache
+C:\Users\Altair\Dropbox\Project\Apteka\Apteka\obj\Release\Apteka.exe
+C:\Users\Altair\Dropbox\Project\Apteka\Apteka\obj\Release\Apteka.pdb
+C:\Users\Altair\Dropbox\Project\Apteka\Apteka\obj\Release\Apteka.csprojResolveAssemblyReference.cache
+C:\Users\Altair\Documents\Visual Studio 2015\Projects\Apteka\Apteka\bin\Release\Apteka.exe.config
+C:\Users\Altair\Documents\Visual Studio 2015\Projects\Apteka\Apteka\obj\Release\Apteka.exe
+C:\Users\Altair\Documents\Visual Studio 2015\Projects\Apteka\Apteka\obj\Release\Apteka.pdb
+C:\Users\Altair\Documents\Visual Studio 2015\Projects\Apteka\Apteka\bin\Release\Apteka.exe
+C:\Users\Altair\Documents\Visual Studio 2015\Projects\Apteka\Apteka\bin\Release\Apteka.pdb
+C:\Users\Altair\Documents\Visual Studio 2015\Projects\Apteka\Apteka\obj\Release\Apteka.csprojResolveAssemblyReference.cache
+C:\Users\Altair\Documents\Visual Studio 2015\Projects\Apteka\Apteka\obj\Release\Apteka.LogIn.resources
+C:\Users\Altair\Documents\Visual Studio 2015\Projects\Apteka\Apteka\obj\Release\Apteka.Products.resources
+C:\Users\Altair\Documents\Visual Studio 2015\Projects\Apteka\Apteka\obj\Release\Apteka.Properties.Resources.resources
+C:\Users\Altair\Documents\Visual Studio 2015\Projects\Apteka\Apteka\obj\Release\Apteka.csproj.GenerateResource.Cache
+C:\Users\Altair\Documents\Visual Studio 2015\Projects\Apteka\Apteka\obj\Release\Apteka.Main.resources
+C:\Users\Altair\Documents\Visual Studio 2015\Projects\Apteka\Apteka\obj\Release\Apteka.AddMedicament.resources
+C:\Users\Altair\Documents\Visual Studio 2015\Projects\Apteka\Apteka\obj\Release\Apteka.Delete.resources
+C:\Users\Altair\Documents\Visual Studio 2015\Projects\Apteka\Apteka\obj\Release\Apteka.AddUser.resources
+C:\Users\Altair\Documents\Visual Studio 2015\Projects\Apteka\Apteka\obj\Release\Apteka.Bought.resources
+C:\Users\Altair\Documents\Visual Studio 2015\Projects\Apteka\Apteka\obj\Release\Apteka.Buy.resources
+C:\Users\Altair\Documents\Visual Studio 2015\Projects\Apteka\Apteka\obj\Release\Apteka.DeleteMed.resources
+C:\Users\Altair\Documents\Visual Studio 2015\Projects\Apteka\Apteka\obj\Release\Apteka.MedicamentsBase.resources
+C:\Users\Altair\Documents\Visual Studio 2015\Projects\Apteka\Apteka\obj\Release\Apteka.ProviderCorrect.resources
+C:\Users\Altair\Documents\Visual Studio 2015\Projects\Apteka\Apteka\obj\Release\Apteka.ProvidersAll.resources
+C:\Users\Altair\Documents\Visual Studio 2015\Projects\Apteka\Apteka\obj\Release\Apteka.ProvidersShow.resources
+C:\Users\Altair\Documents\Visual Studio 2015\Projects\Apteka\Apteka\obj\Release\Apteka.Sales.resources
+C:\Users\Altair\Documents\Visual Studio 2015\Projects\Apteka\Apteka\obj\Release\Apteka.ToSale.resources
+C:\Users\Altair\Documents\Visual Studio 2015\Projects\Apteka\Apteka\obj\Release\Apteka.Stock.resources
+C:\Users\Altair\Dropbox\Project\Apteka\bin\Release\Apteka.exe.config
+C:\Users\Altair\Dropbox\Project\Apteka\obj\Release\Apteka.exe
+C:\Users\Altair\Dropbox\Project\Apteka\obj\Release\Apteka.pdb
